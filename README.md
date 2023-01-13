@@ -37,10 +37,22 @@ Okay, fantastic! osTicket has been implemented from scratch. We will now concent
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+In the agents tab, click the "Departments" button. We will be able to establish a new department here. Depending on their designated job within the helpdesk, each Agent is assigned to a particular department. The "System Administrators" department will be established in this instance, and this is where the Supreme Admins will be identified. In the departments tab, you can configure additional particular parameters like SLAs, managers, and other email preferences.
+</p>
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<p>
+
+We will establish a new team after configuring a new department. Teams give you the ability to assemble agents from several departments; for example, you may assemble an A team of the best technicians from a given department. You could, for instance, design a support topic that pertains to a product you make and assign it to a group of agents who are experts in that product. Go to Agents->Teams to form a team. In this example, a Level II support team will be created as a Level I support team has already been set up by default.
+
+</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
