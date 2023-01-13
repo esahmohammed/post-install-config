@@ -90,3 +90,9 @@ We'll create users after creating some agents. Users are clients who create tick
 <p>
 SLAs Plans specify how long the help desk is supposed to take to resolve a particular ticket. By navigating to Admin Panel->Manage->SLA Plans, SLA Plans can be generated. Every SLA has a schedule, and during that schedule, a grace period is allowed. SEV-A in this instance has a 24/7 and an hour-long grace period.
 </p>
+<br/>
+
+<p>
+Users can organize their tickets using the help topics. If consumers are unable to access mobile banking, we have created a help topic for "Business Critical Outage" in the example below.
+</p>
+
