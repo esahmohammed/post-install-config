@@ -22,13 +22,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Configuration Steps</h2>
+
+<p>
+
+The post configuration setup of the osTicket system is shown in this tutorial.
+ 
+Okay, fantastic! osTicket has been implemented from scratch. We will now concentrate on some post-installation setup and perform some system administration. New roles will first be configured within the help desk. Go to the Admin panel-> Agents -> Roles to accomplish this. We'll establish the Supreme Admin. Enter the name of the new role after selecting "Add new role." Additionally, you can alter any roles’ permissions. In this instance, they will have full permissions because we are generating a Supreme Admin. Remember that an agent's permissions are determined by their role, thus not every agent will have unrestricted access. If you correctly followed the instructions, your screen should appear like this. As you can see, we were successful in setting up the role of "Supreme Admin".
+ 
+
+</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
