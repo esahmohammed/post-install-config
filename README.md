@@ -80,3 +80,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 The time has come to appoint Agents. The helpdesk personnel who really work on solving tickets are known as agents. When tickets are routed to a department, agents are given a primary department and position. Agents may be granted access to departments other than their own, and depending on whatever department they are in, they may also have varied tasks. In the Agents tab, you may allocate Teams, Access, and Permissions.
 </p>
+<br />
+
+<p>
+We'll create users after creating some agents. Users are clients who create tickets when they encounter problems. A user can be recognized by their email address. Follow this guide to create a user. Agent Panel > Users > User Directory > Add new.
+</p>
+<br />
+
+<p>
+SLAs Plans specify how long the help desk is supposed to take to resolve a particular ticket. By navigating to Admin Panel->Manage->SLA Plans, SLA Plans can be generated. Every SLA has a schedule, and during that schedule, a grace period is allowed. SEV-A in this instance has a 24/7 and an hour-long grace period.
+</p>
