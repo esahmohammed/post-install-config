@@ -57,6 +57,13 @@ We will establish a new team after configuring a new department. Teams give you 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+
+Now that a new team has been established, we will create a new setting to enable anyone to create tickets. Admin Panel > Settings > User Settings
+
+</p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
@@ -69,3 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<p>
+The time has come to appoint Agents. The helpdesk personnel who really work on solving tickets are known as agents. When tickets are routed to a department, agents are given a primary department and position. Agents may be granted access to departments other than their own, and depending on whatever department they are in, they may also have varied tasks. In the Agents tab, you may allocate Teams, Access, and Permissions.
+</p>
