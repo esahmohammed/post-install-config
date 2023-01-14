@@ -24,43 +24,45 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 The post configuration setup of the osTicket system is shown in this tutorial.
  
-Okay, fantastic! osTicket has been implemented from scratch. We will now concentrate on some post-installation setup and perform some system administration. New roles will first be configured within the help desk. Go to the Admin panel-> Agents -> Roles to accomplish this. We'll establish the Supreme Admin. Enter the name of the new role after selecting "Add new role." Additionally, you can alter any roles’ permissions. In this instance, they will have full permissions because we are generating a Supreme Admin. Remember that an agent's permissions are determined by their role, thus not every agent will have unrestricted access. If you correctly followed the instructions, your screen should appear like this. As you can see, we were successful in setting up the role of "Supreme Admin".
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Okay, fantastic! osTicket has been implemented from scratch. We will now concentrate on some post-installation setup and perform some system administration. New roles will first be configured within the help desk. Go to the Admin panel-> Agents -> Roles to accomplish this. We'll establish the Supreme Admin. Enter the name of the new role after selecting "Add new role." <br />
+Note: When you are in the Admin Panel at the top right will say Agent Panel and vice versa.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DoUc9L7.png" height="40%" width="40%" alt="Adding a new role"/>
 </p>
 
 <p>
-In the agents tab, click the "Departments" button. We will be able to establish a new department here. Depending on their designated job within the helpdesk, each Agent is assigned to a particular department. The "System Administrators" department will be established in this instance, and this is where the Supreme Admins will be identified. In the departments tab, you can configure additional particular parameters like SLAs, managers, and other email preferences.
+Additionally, you can alter any roles’ permissions. In this instance, they will have full permissions because we are generating a Supreme Admin. Remember that an agent's permissions are determined by their role, thus not every agent will have unrestricted access. If you correctly followed the instructions, your screen should appear like this. As you can see, we were successful in setting up the role of "Supreme Admin".
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kMXFZpC.png" height="40%" width="40%" alt="Surpreme Admin Role Established"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+While in the Admin Panel go to the agents tab and click the "Departments" button. We will be able to establish a new department here. Depending on their designated job within the helpdesk, each Agent is assigned to a particular department. The "System Administrators" department will be established in this instance, and this is where the Supreme Admins will be identified. In the departments tab, you can configure additional particular parameters like SLAs, managers, and other email preferences.
 </p>
 
+<p>
+<img src="https://i.imgur.com/xDEmbcI.png" height="40%" width="40%" alt="System Administrators Department"/>
+</p>
 
 <p>
 We will establish a new team after configuring a new department. Teams give you the ability to assemble agents from several departments; for example, you may assemble an A team of the best technicians from a given department. You could, for instance, design a support topic that pertains to a product you make and assign it to a group of agents who are experts in that product. Go to Agents->Teams to form a team. In this example, a Level II support team will be created as a Level I support team has already been set up by default.
 </p>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/snBZtLl.png" height="40%" width="40%" alt="New Team"/>
 </p>
 
 <p>
 Now that a new team has been established, we will create a new setting to enable anyone to create tickets. Admin Panel > Settings > User Settings <br />
-Ensure that require registration and login to create tickets is turned off, this is important for any user to be able to create a ticket.
+Ensure that “require registration and login to create tickets” is turned off, this is important for any user to be able to create a ticket.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WraSq1M.png" height="40%" width="40%" alt="Allowing any user to create a ticket"/>
 </p>
 
 <p>
