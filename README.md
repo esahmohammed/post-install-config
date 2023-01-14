@@ -70,31 +70,46 @@ Now let's create some Agents. The help desk personnel who really work on solving
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Uv9SdIp.png" height="40%" width="40%" alt="Creating an agent"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5WzNfcB.png" height="40%" width="40%" alt="Agent acess"/>
 </p>
 
 <p>
-We'll create users after creating some agents. Users are clients who create tickets when they encounter problems. A user can be recognized by their email address. Follow this guide to create a user. Agent Panel > Users > User Directory > Add User.
+<img src="https://i.imgur.com/68snH6Z.png" height="40%" width="40%" alt="Agent team"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Your agents should show like this once you click create.
+
+<p>
+<img src="https://i.imgur.com/whLsBrk.png" height="40%" width="40%" alt="New Agents"/>
 </p>
 
 <p>
-SLAs Plans specify how long the help desk is supposed to take to resolve a particular ticket. By navigating to Admin Panel->Manage->SLA Plans, SLA Plans can be generated. Every SLA has a schedule, and during that schedule, a grace period is allowed. SEV-A in this instance has a 24/7 and an hour-long grace period.
+We'll create users after creating some agents. Users are clients who create tickets when they encounter problems. A user can be recognized by their email address. Follow this guide to create a user. Agent Panel > Users > User Directory > Add User. After creating your user or users, your user directory should look like this:
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gruInlK.png" height="40%" width="40%" alt="New users"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+SLAs Plans specify how long the help desk is supposed to take to resolve a particular ticket. By navigating to Admin Panel >> Manage >> SLA Plans, SLA Plans can be generated. Every SLA has a schedule, and during that schedule, a grace period is allowed. SEV-A in this instance has a 24/7 and an hour-long grace period.
+</p>
+
+<p>
+<img src="https://i.imgur.com/fuAvSbu.png" height="40%" width="40%" alt="Creating an SLA Plan"/>
+</p>
+
+<p>
+Here is an example of how different SLA Plans can look
+</p>
+
+<p>
+<img src="https://i.imgur.com/hMcTAmP.png" height="40%" width="40%" alt="Different SLAS"/>
 </p>
 
 <p>
@@ -102,5 +117,5 @@ Users can organize their tickets using the help topics. If consumers are unable 
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/goUdv13.png" height="40%" width="40%" alt="Help Topic"/>
 </p>
