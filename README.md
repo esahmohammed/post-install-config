@@ -29,7 +29,7 @@ Note: When you are in the Admin Panel at the top right will say Agent Panel and 
 </p>
 
 <p>
-<img src="https://i.imgur.com/DoUc9L7.png" height="60%" width="60%" alt="Adding a new role"/>
+<img src="https://i.imgur.com/DoUc9L7.png" height="80%" width="80%" alt="Adding a new role"/>
 </p>
 
 <p>
@@ -37,7 +37,7 @@ Additionally, you can alter any roles’ permissions. In this instance, they wil
 </p>
 
 <p>
-<img src="https://i.imgur.com/kMXFZpC.png" height="60%" width="60%" alt="Surpreme Admin Role Established"/>
+<img src="https://i.imgur.com/kMXFZpC.png" height="80%" width="80%" alt="Surpreme Admin Role Established"/>
 </p>
 
 <p>
@@ -45,7 +45,7 @@ While in the Admin Panel go to the agents tab and click the "Departments" button
 </p>
 
 <p>
-<img src="https://i.imgur.com/xDEmbcI.png" height="60%" width="60%" alt="System Administrators Department"/>
+<img src="https://i.imgur.com/xDEmbcI.png" height="80%" width="80%" alt="System Administrators Department"/>
 </p>
 
 <p>
@@ -53,7 +53,7 @@ We will establish a new team after configuring a new department. Teams give you 
 </p>
 
 <p>
-<img src="https://i.imgur.com/snBZtLl.png" height="60%" width="60%" alt="New Team"/>
+<img src="https://i.imgur.com/snBZtLl.png" height="80%" width="80%" alt="New Team"/>
 </p>
 
 <p>
@@ -62,7 +62,7 @@ Ensure that “require registration and login to create tickets” is turned off
 </p>
 
 <p>
-<img src="https://i.imgur.com/WraSq1M.png" height="60%" width="60%" alt="Allowing any user to create a ticket"/>
+<img src="https://i.imgur.com/WraSq1M.png" height="80%" width="80%" alt="Allowing any user to create a ticket"/>
 </p>
 
 <p>
@@ -70,22 +70,22 @@ Now let's create some Agents. The help desk personnel who really work on solving
 </p>
 
 <p>
-<img src="https://i.imgur.com/Uv9SdIp.png" height="60%" width="60%" alt="Creating an agent"/>
+<img src="https://i.imgur.com/Uv9SdIp.png" height="80%" width="80%" alt="Creating an agent"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/5WzNfcB.png" height="60%" width="60%" alt="Agent acess"/>
+<img src="https://i.imgur.com/5WzNfcB.png" height="80%" width="80%" alt="Agent acess"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/68snH6Z.png" height="60%" width="60%" alt="Agent team"/>
+<img src="https://i.imgur.com/68snH6Z.png" height="80%" width="80%" alt="Agent team"/>
 </p>
 
 <p>
 Your agents should show like this once you click create.
 
 <p>
-<img src="https://i.imgur.com/whLsBrk.png" height="60%" width="60%" alt="New Agents"/>
+<img src="https://i.imgur.com/whLsBrk.png" height="80%" width="80%" alt="New Agents"/>
 </p>
 
 <p>
@@ -93,7 +93,7 @@ We'll create users after creating some agents. Users are clients who create tick
 </p>
 
 <p>
-<img src="https://i.imgur.com/gruInlK.png" height="60%" width="60%" alt="New users"/>
+<img src="https://i.imgur.com/gruInlK.png" height="80%" width="80%" alt="New users"/>
 </p>
 
 <p>
@@ -101,7 +101,7 @@ SLAs Plans specify how long the help desk is supposed to take to resolve a parti
 </p>
 
 <p>
-<img src="https://i.imgur.com/fuAvSbu.png" height="60%" width="60%" alt="Creating an SLA Plan"/>
+<img src="https://i.imgur.com/fuAvSbu.png" height="80%" width="80%" alt="Creating an SLA Plan"/>
 </p>
 
 <p>
@@ -109,7 +109,7 @@ Here is an example of how different SLA Plans can look
 </p>
 
 <p>
-<img src="https://i.imgur.com/hMcTAmP.png" height="60%" width="60%" alt="Different SLAS"/>
+<img src="https://i.imgur.com/hMcTAmP.png" height="80%" width="80%" alt="Different SLAS"/>
 </p>
 
 <p>
@@ -117,5 +117,5 @@ Users can organize their tickets using the help topics. If consumers are unable 
 </p>
 
 <p>
-<img src="https://i.imgur.com/goUdv13.png" height="60%" width="60%" alt="Help Topic"/>
+<img src="https://i.imgur.com/goUdv13.png" height="80%" width="80%" alt="Help Topic"/>
 </p>
